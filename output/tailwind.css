@@ -513,12 +513,18 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.bg-white {
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+.grid {
+  display: grid;
 }
 
-.bg-gray-100 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(243 244 246 / var(--tw-bg-opacity));
-}  
+.h-screen {
+  height: 100vh;
+}
+
+.place-content-center {
+  place-content: center;
+}
+
+.bg-light-gray {
+  background-color: hsl(212, 45%, 89%);
+}
