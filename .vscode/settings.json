@@ -1,4 +1,6 @@
 {
 "css.validate": false,
 "tailwindCSS.emmetCompletions": true,
+"liveServer.settings.CustomBrowser": "chrome",
+"liveServer.settings.NoBrowser": true,
 }
