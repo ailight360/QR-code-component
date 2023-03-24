@@ -6,10 +6,13 @@
     .bg-light-gray {
       background-color: hsl(212, 45%, 89%);
     }
-    .bg-grayish-blue {
-        background-color: hsl(220, 15%, 55%);
+    .text-grayish{
+      color: hsl(220, 15%, 55%);
       }
-    .bg-dark-blue {
-    background-color: hsl(218, 44%, 22%);
+    .text-dark{
+    color: hsl(218, 44%, 22%);
+    }
+    .font-outfit{
+      font-family: 'Outfit', sans-serif;
     }
   }
